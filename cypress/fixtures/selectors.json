@@ -1,0 +1,6 @@
+{
+  "weekday": ".page-nav__day",
+  "sessionGrid": ".conf-step__seances-movie-title",
+  "nameHall": "#start-sales > [style='display: block;'] > .conf-step__selectors-box > :nth-child(4) > .conf-step__radio",
+  "openTicketSalesButton": "#start-sales > .text-center > .conf-step__button"
+}
